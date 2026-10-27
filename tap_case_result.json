@@ -1,0 +1,513 @@
+{
+  "request": {
+    "text": "Bathroom tap water flow is very low. Leakage illai.",
+    "category": "plumbing",
+    "preferredLang": "ta"
+  },
+  "response": {
+    "originalText": "Bathroom tap water flow is very low. Leakage illai.",
+    "correctedText": "Bathroom tap water flow is very low. Leakage illai.",
+    "corrections": [],
+    "language": "ta",
+    "category": "plumbing",
+    "fixtureKey": "cleaning",
+    "confidence": 0.94,
+    "possibleIssue": "குளியலறை: தண்ணீர் கசிவு அல்லது நீர் அடைப்பு",
+    "explanation": "உங்கள் குளியலறை-ல் குழாய் அழுத்தம் அல்லது வாஷர் சேதம் காரணமாக தண்ணீர் கசிவு அல்லது நீர் அடைப்பு ஏற்பட்டுள்ளது என AI துல்லியமாகக் கண்டறிந்துள்ளது.",
+    "confirmationQuestion": "உங்களின் பிரச்சனை குறித்த எனது புரிதல் சரியானதா?",
+    "safetyAssessment": "பாதுகாப்பானது: இந்த பிரச்சனைக்கு எளிய வழிகாட்டல் மூலம் நீங்களே சுயமாக தீர்வு காணலாம்.",
+    "isSafeForDIY": true,
+    "severity": "குறைந்த ஆபத்து (சுயமாக செய்யலாம்)",
+    "diyGuide": {
+      "title": "குழாய் காற்று அடைப்பு & நீர் ஓட்ட சரிபார்ப்பு",
+      "estimatedMinutes": 12,
+      "difficulty": "Easy / Beginner",
+      "category": "plumbing",
+      "identifiedProblem": "குழாய் முனையில் தாது படிவு அடைப்பு & குறைந்த நீர் வேகம்",
+      "possibleCauses": [
+        "குழாய் ஏரேட்டர் வலையில் படிந்துள்ள தாது உப்பு மற்றும் மணல் அடைப்பு",
+        "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வு முழுமையாக திறக்கப்படாமை"
+      ],
+      "recommendedSolution": [
+        "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+        "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+        "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+        "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+        "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+      ],
+      "steps": [
+        "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+        "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+        "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+        "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+        "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+      ],
+      "requiredTools": [
+        "ஸ்பேனர் / குறடு",
+        "சுத்தம் செய்யும் வினிகர்",
+        "பல் துலக்கும் பிரஷ்",
+        "துணி"
+      ],
+      "tools": [
+        "ஸ்பேனர் / குறடு",
+        "சுத்தம் செய்யும் வினிகர்",
+        "பல் துலக்கும் பிரஷ்",
+        "துணி"
+      ],
+      "spareParts": [
+        "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+      ],
+      "parts": [
+        "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+      ],
+      "safetyInstructions": [
+        "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+        "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+      ],
+      "precautions": [
+        "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+        "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+      ],
+      "safetyNotes": [
+        "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+        "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+      ],
+      "whenToCallTechnician": "ஏரேட்டரை சுத்தம் செய்த பிறகும் நீர் வேகம் வரவில்லை எனில் முதன்மை குழாய் அடைப்பை சரிபார்க்க பிளம்பரை அழைக்கவும்.",
+      "isSafeForDIY": true,
+      "verifiedBy": "Multi-LLM Consensus Engine (ChatGPT + DeepSeek + Gemini)",
+      "verificationScore": 0.967,
+      "confidenceScores": {
+        "problemUnderstanding": 98,
+        "constraintCompliance": 98,
+        "solutionAccuracy": 92,
+        "safetyScore": 98,
+        "overallVerificationScore": 96
+      },
+      "reanalysisIteration": 1
+    },
+    "visionAnalysis": null,
+    "verificationReport": {
+      "decision": "APPROVED",
+      "isApproved": true,
+      "status": "APPROVED",
+      "reason": "Multi-LLM consensus verified across ChatGPT, DeepSeek, and Gemini. All negative constraints and user exclusions respected without conflicts.",
+      "missing_information": "None - Complete procedure validated",
+      "verificationScore": 0.967,
+      "confidenceScores": {
+        "problemUnderstanding": 98,
+        "constraintCompliance": 98,
+        "solutionAccuracy": 92,
+        "safetyScore": 98,
+        "overallVerificationScore": 96
+      },
+      "problemUnderstandingScore": 0.98,
+      "constraintComplianceScore": 0.98,
+      "technicalAccuracyScore": 0.92,
+      "safetyScore": 0.99,
+      "consensusScore": 0.96,
+      "decisionReason": "Multi-LLM consensus verified across ChatGPT, DeepSeek, and Gemini. All negative constraints and user exclusions respected without conflicts.",
+      "anomaliesDetected": [],
+      "constraintConflicts": [],
+      "modelEvaluations": [
+        {
+          "model": "ChatGPT (gpt-4o-mini)",
+          "providerId": "openai",
+          "problemUnderstandingScore": 0.98,
+          "constraintComplianceScore": 0.98,
+          "technicalScore": 0.92,
+          "safetyScore": 0.99,
+          "confidence": 0.94,
+          "latencyMs": 3116,
+          "hasConflict": false
+        },
+        {
+          "model": "DeepSeek (deepseek-chat)",
+          "providerId": "deepseek",
+          "problemUnderstandingScore": 0.98,
+          "constraintComplianceScore": 0.98,
+          "technicalScore": 0.92,
+          "safetyScore": 0.99,
+          "confidence": 0.94,
+          "latencyMs": 3476,
+          "hasConflict": false
+        },
+        {
+          "model": "Gemini (gemini-3.8-flash)",
+          "providerId": "gemini",
+          "problemUnderstandingScore": 0.98,
+          "constraintComplianceScore": 0.98,
+          "technicalScore": 0.92,
+          "safetyScore": 0.99,
+          "confidence": 0.94,
+          "latencyMs": 5687,
+          "hasConflict": false
+        }
+      ],
+      "verifiedSolution": {
+        "title": "குழாய் காற்று அடைப்பு & நீர் ஓட்ட சரிபார்ப்பு",
+        "estimatedMinutes": 12,
+        "difficulty": "Easy / Beginner",
+        "category": "plumbing",
+        "identifiedProblem": "குழாய் முனையில் தாது படிவு அடைப்பு & குறைந்த நீர் வேகம்",
+        "possibleCauses": [
+          "குழாய் ஏரேட்டர் வலையில் படிந்துள்ள தாது உப்பு மற்றும் மணல் அடைப்பு",
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வு முழுமையாக திறக்கப்படாமை"
+        ],
+        "recommendedSolution": [
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+          "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+          "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+          "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+          "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+        ],
+        "steps": [
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+          "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+          "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+          "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+          "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+        ],
+        "requiredTools": [
+          "ஸ்பேனர் / குறடு",
+          "சுத்தம் செய்யும் வினிகர்",
+          "பல் துலக்கும் பிரஷ்",
+          "துணி"
+        ],
+        "tools": [
+          "ஸ்பேனர் / குறடு",
+          "சுத்தம் செய்யும் வினிகர்",
+          "பல் துலக்கும் பிரஷ்",
+          "துணி"
+        ],
+        "spareParts": [
+          "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+        ],
+        "parts": [
+          "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+        ],
+        "safetyInstructions": [
+          "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+          "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+        ],
+        "precautions": [
+          "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+          "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+        ],
+        "safetyNotes": [
+          "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+          "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+        ],
+        "whenToCallTechnician": "ஏரேட்டரை சுத்தம் செய்த பிறகும் நீர் வேகம் வரவில்லை எனில் முதன்மை குழாய் அடைப்பை சரிபார்க்க பிளம்பரை அழைக்கவும்.",
+        "isSafeForDIY": true,
+        "verifiedBy": "Multi-LLM Consensus Engine (ChatGPT + DeepSeek + Gemini)",
+        "verificationScore": 0.967,
+        "confidenceScores": {
+          "problemUnderstanding": 98,
+          "constraintCompliance": 98,
+          "solutionAccuracy": 92,
+          "safetyScore": 98,
+          "overallVerificationScore": 96
+        },
+        "reanalysisIteration": 1
+      },
+      "extractedConstraints": {
+        "rawText": "Bathroom tap water flow is very low. Leakage illai.",
+        "cleanedText": "Bathroom tap water flow is very low. i.",
+        "detectedLanguage": "ta",
+        "mainProblem": "குழாயில் குறைந்த நீர் அழுத்தம் / ஓட்டம்",
+        "positiveSymptoms": [
+          "குழாயில் குறைந்த நீர் அழுத்தம் / ஓட்டம்"
+        ],
+        "negativeConditions": {
+          "leakage": false
+        },
+        "userConstraints": [
+          {
+            "condition": "leakage",
+            "negated": true,
+            "rawPhrase": "Leakage illa",
+            "meaning": "தண்ணீர் கசிவு இல்லை",
+            "status": "CONFIRMED_ABSENT"
+          }
+        ],
+        "mentionedExclusions": [
+          "தண்ணீர் கசிவு இல்லை (Leakage illa)"
+        ],
+        "prohibitedSolutions": [
+          "leaking",
+          "நீர் கசிவு",
+          "leaking washer",
+          "leakage repair",
+          "teflon tape for leak",
+          "தண்ணீர் கசிவு",
+          "fixing leak",
+          "தண்ணீர் கசிவு சரிசெய்தல்",
+          "sealing leak",
+          "pipe burst",
+          "leakage",
+          "water leaking",
+          "கசிவை அடைக்கவும்",
+          "dripping leak",
+          "replace leaking washer",
+          "ரிसाव ठीक करें",
+          "fix leak"
+        ],
+        "targetedFocus": [
+          "Clean faucet aerator mesh filter",
+          "Check under-sink angle isolation valve is fully open",
+          "Inspect faucet ceramic cartridge for mineral clogging",
+          "Mineral limescale accumulation inside tap ceramic cartridge",
+          "Descale aerator with white vinegar to clear limescale sediment",
+          "Partially closed under-sink angle isolation stopcock valve",
+          "Aerator mesh clogged with sand, mineral sediment, or scale particles"
+        ],
+        "understandingConfidence": 0.96
+      },
+      "reanalysisIteration": 1,
+      "modelsCompared": [
+        "ChatGPT (gpt-4o-mini)",
+        "DeepSeek (deepseek-chat)",
+        "Gemini (gemini-3.8-flash)"
+      ]
+    },
+    "multiLlmResponses": [
+      {
+        "model": "ChatGPT (gpt-4o-mini)",
+        "providerId": "openai",
+        "title": "குழாய் காற்று அடைப்பு & நீர் ஓட்ட சரிபார்ப்பு",
+        "estimatedMinutes": 12,
+        "difficulty": "Easy / Beginner",
+        "identifiedProblem": "குழாய் முனையில் தாது படிவு அடைப்பு & குறைந்த நீர் வேகம்",
+        "possibleCauses": [
+          "குழாய் ஏரேட்டர் வலையில் படிந்துள்ள தாது உப்பு மற்றும் மணல் அடைப்பு",
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வு முழுமையாக திறக்கப்படாமை"
+        ],
+        "recommendedSolution": [
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+          "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+          "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+          "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+          "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+        ],
+        "requiredTools": [
+          "ஸ்பேனர் / குறடு",
+          "சுத்தம் செய்யும் வினிகர்",
+          "பல் துலக்கும் பிரஷ்",
+          "துணி"
+        ],
+        "spareParts": [
+          "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+        ],
+        "safetyInstructions": [
+          "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+          "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+        ],
+        "whenToCallTechnician": "ஏரேட்டரை சுத்தம் செய்த பிறகும் நீர் வேகம் வரவில்லை எனில் முதன்மை குழாய் அடைப்பை சரிபார்க்க பிளம்பரை அழைக்கவும்.",
+        "confidenceScore": 0.94,
+        "isSafeForDIY": true,
+        "latencyMs": 3116
+      },
+      {
+        "model": "DeepSeek (deepseek-chat)",
+        "providerId": "deepseek",
+        "title": "குழாய் காற்று அடைப்பு & நீர் ஓட்ட சரிபார்ப்பு",
+        "estimatedMinutes": 12,
+        "difficulty": "Easy / Beginner",
+        "identifiedProblem": "குழாய் முனையில் தாது படிவு அடைப்பு & குறைந்த நீர் வேகம்",
+        "possibleCauses": [
+          "குழாய் ஏரேட்டர் வலையில் படிந்துள்ள தாது உப்பு மற்றும் மணல் அடைப்பு",
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வு முழுமையாக திறக்கப்படாமை"
+        ],
+        "recommendedSolution": [
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+          "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+          "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+          "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+          "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+        ],
+        "requiredTools": [
+          "ஸ்பேனர் / குறடு",
+          "சுத்தம் செய்யும் வினிகர்",
+          "பல் துலக்கும் பிரஷ்",
+          "துணி"
+        ],
+        "spareParts": [
+          "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+        ],
+        "safetyInstructions": [
+          "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+          "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+        ],
+        "whenToCallTechnician": "ஏரேட்டரை சுத்தம் செய்த பிறகும் நீர் வேகம் வரவில்லை எனில் முதன்மை குழாய் அடைப்பை சரிபார்க்க பிளம்பரை அழைக்கவும்.",
+        "confidenceScore": 0.94,
+        "isSafeForDIY": true,
+        "latencyMs": 3476
+      },
+      {
+        "model": "Gemini (gemini-3.8-flash)",
+        "providerId": "gemini",
+        "title": "குழாய் காற்று அடைப்பு & நீர் ஓட்ட சரிபார்ப்பு",
+        "estimatedMinutes": 12,
+        "difficulty": "Easy / Beginner",
+        "identifiedProblem": "குழாய் முனையில் தாது படிவு அடைப்பு & குறைந்த நீர் வேகம்",
+        "possibleCauses": [
+          "குழாய் ஏரேட்டர் வலையில் படிந்துள்ள தாது உப்பு மற்றும் மணல் அடைப்பு",
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வு முழுமையாக திறக்கப்படாமை"
+        ],
+        "recommendedSolution": [
+          "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+          "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+          "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+          "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+          "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+        ],
+        "requiredTools": [
+          "ஸ்பேனர் / குறடு",
+          "சுத்தம் செய்யும் வினிகர்",
+          "பல் துலக்கும் பிரஷ்",
+          "துணி"
+        ],
+        "spareParts": [
+          "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+        ],
+        "safetyInstructions": [
+          "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+          "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+        ],
+        "whenToCallTechnician": "ஏரேட்டரை சுத்தம் செய்த பிறகும் நீர் வேகம் வரவில்லை எனில் முதன்மை குழாய் அடைப்பை சரிபார்க்க பிளம்பரை அழைக்கவும்.",
+        "confidenceScore": 0.94,
+        "isSafeForDIY": true,
+        "latencyMs": 5687
+      }
+    ],
+    "verifiedSolution": {
+      "title": "குழாய் காற்று அடைப்பு & நீர் ஓட்ட சரிபார்ப்பு",
+      "estimatedMinutes": 12,
+      "difficulty": "Easy / Beginner",
+      "category": "plumbing",
+      "identifiedProblem": "குழாய் முனையில் தாது படிவு அடைப்பு & குறைந்த நீர் வேகம்",
+      "possibleCauses": [
+        "குழாய் ஏரேட்டர் வலையில் படிந்துள்ள தாது உப்பு மற்றும் மணல் அடைப்பு",
+        "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வு முழுமையாக திறக்கப்படாமை"
+      ],
+      "recommendedSolution": [
+        "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+        "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+        "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+        "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+        "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+      ],
+      "steps": [
+        "வாஷ்பேசினுக்கு அடியில் உள்ள ஆங்கிள் வால்வை கடிகார திசையில் திருப்பி நீரை நிறுத்தவும்",
+        "மெல்லிய துணியால் குழாய் முனையை சுற்றி ஸ்பேனர் மூலம் ஏரேட்டரை இடதுபுறமாக கழற்றவும்",
+        "ஏரேட்டர் வடிகட்டியை வினிகர் அல்லது வெதுவெதுப்பான நீரில் 10 நிமிடங்கள் ஊறவைத்து தாதுக்களை அகற்றவும்",
+        "சுத்தமான பிரஷ் கொண்டு ஏரேட்டர் வலையை கழுவி, ஆங்கிள் வால்வை முழுமையாக திறக்கவும்",
+        "ஏரேட்டரை மீண்டும் குழாயில் கைகளால் இறுக்கமாக பொருத்தி, முழு நீர் அழுத்தத்தை சரிபார்க்கவும்"
+      ],
+      "requiredTools": [
+        "ஸ்பேனர் / குறடு",
+        "சுத்தம் செய்யும் வினிகர்",
+        "பல் துலக்கும் பிரஷ்",
+        "துணி"
+      ],
+      "tools": [
+        "ஸ்பேனர் / குறடு",
+        "சுத்தம் செய்யும் வினிகர்",
+        "பல் துலக்கும் பிரஷ்",
+        "துணி"
+      ],
+      "spareParts": [
+        "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+      ],
+      "parts": [
+        "புதிய ஏரேட்டர் வாஷர் (தேவைப்பட்டால்)"
+      ],
+      "safetyInstructions": [
+        "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+        "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+      ],
+      "precautions": [
+        "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+        "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+      ],
+      "safetyNotes": [
+        "ஏரேட்டரை கழற்றும் முன் ஆங்கிள் வால்வை கட்டாயம் மூடவும்",
+        "குழாயில் கீறல் விழாமல் இருக்க துணியை பயன்படுத்தவும்"
+      ],
+      "whenToCallTechnician": "ஏரேட்டரை சுத்தம் செய்த பிறகும் நீர் வேகம் வரவில்லை எனில் முதன்மை குழாய் அடைப்பை சரிபார்க்க பிளம்பரை அழைக்கவும்.",
+      "isSafeForDIY": true,
+      "verifiedBy": "Multi-LLM Consensus Engine (ChatGPT + DeepSeek + Gemini)",
+      "verificationScore": 0.967,
+      "confidenceScores": {
+        "problemUnderstanding": 98,
+        "constraintCompliance": 98,
+        "solutionAccuracy": 92,
+        "safetyScore": 98,
+        "overallVerificationScore": 96
+      },
+      "reanalysisIteration": 1
+    },
+    "verificationDecision": "APPROVED",
+    "extractedConstraints": {
+      "rawText": "Bathroom tap water flow is very low. Leakage illai.",
+      "cleanedText": "Bathroom tap water flow is very low. i.",
+      "detectedLanguage": "ta",
+      "mainProblem": "குழாயில் குறைந்த நீர் அழுத்தம் / ஓட்டம்",
+      "positiveSymptoms": [
+        "குழாயில் குறைந்த நீர் அழுத்தம் / ஓட்டம்"
+      ],
+      "negativeConditions": {
+        "leakage": false
+      },
+      "userConstraints": [
+        {
+          "condition": "leakage",
+          "negated": true,
+          "rawPhrase": "Leakage illa",
+          "meaning": "தண்ணீர் கசிவு இல்லை",
+          "status": "CONFIRMED_ABSENT"
+        }
+      ],
+      "mentionedExclusions": [
+        "தண்ணீர் கசிவு இல்லை (Leakage illa)"
+      ],
+      "prohibitedSolutions": [
+        "leaking",
+        "நீர் கசிவு",
+        "leaking washer",
+        "leakage repair",
+        "teflon tape for leak",
+        "தண்ணீர் கசிவு",
+        "fixing leak",
+        "தண்ணீர் கசிவு சரிசெய்தல்",
+        "sealing leak",
+        "pipe burst",
+        "leakage",
+        "water leaking",
+        "கசிவை அடைக்கவும்",
+        "dripping leak",
+        "replace leaking washer",
+        "ரிसाव ठीक करें",
+        "fix leak"
+      ],
+      "targetedFocus": [
+        "Clean faucet aerator mesh filter",
+        "Check under-sink angle isolation valve is fully open",
+        "Inspect faucet ceramic cartridge for mineral clogging",
+        "Mineral limescale accumulation inside tap ceramic cartridge",
+        "Descale aerator with white vinegar to clear limescale sediment",
+        "Partially closed under-sink angle isolation stopcock valve",
+        "Aerator mesh clogged with sand, mineral sediment, or scale particles"
+      ],
+      "understandingConfidence": 0.96
+    },
+    "confidenceScores": {
+      "problemUnderstanding": 98,
+      "constraintCompliance": 98,
+      "solutionAccuracy": 92,
+      "safetyScore": 98,
+      "overallVerificationScore": 96
+    },
+    "isOffTopic": false
+  }
+}
